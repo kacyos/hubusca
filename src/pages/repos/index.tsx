@@ -114,7 +114,7 @@ const Repository: React.FC = () => {
               cardWidth="200px"
               cardHeight="110px"
               imgWidth="60px"
-              fontSizeName="20px"
+              fontSizeName="16px"
               fontSizeInfo="14px"
             />
           ))
