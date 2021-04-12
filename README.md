@@ -4,7 +4,7 @@
   style="width: 80px; display: block; margin: 20px auto;"
 />
 <img
-  src="./appGit.gif"
+  src="./HUBusca.gif"
   style="width: 50%; display: block; margin-left: auto; margin-right: auto;"
 />
 <h3 style="text-align: center;">
