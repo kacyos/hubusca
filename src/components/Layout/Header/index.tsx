@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <Link to="/">
         <ContentHeader>
           <ImgLogo src={logo} alt="Hubusca Logo" />
-          <Title>Hubusca</Title>
+          <Title>HUBusca</Title>
         </ContentHeader>
       </Link>
     </Container>
